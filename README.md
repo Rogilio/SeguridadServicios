@@ -34,11 +34,13 @@ It includes hands-on labs focused on deploying, exposing, and monitoring service
 
 - **`Seguridad en Servicios - U3.pdf`**  
   - Configuración avanzada de Mikrotik: NAT, reglas de firewall, rutas estáticas  
-  - Segmentación de red y pruebas de acceso entre VLANs  
+  - Segmentación de red y pruebas de acceso entre VLANs
+  - Escaneos de seguridad utilizando **OpenVAS** y **Nessus** para detección de vulnerabilidades  
   - Validación de reglas mediante pruebas de conectividad y escaneos  
   ---  
   - Advanced Mikrotik configuration: NAT, firewall rules, static routes  
   - Network segmentation and inter-VLAN access tests  
+  - Security scans using **OpenVAS** and **Nessus** to detect vulnerabilities
   - Validation through connectivity tests and port scanning
 
 - **`Seguridad en Servicios - U4.pdf`**  
